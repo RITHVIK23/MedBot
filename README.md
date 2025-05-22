@@ -1,7 +1,5 @@
 # MedBot
 
-![MedBot Logo](assets/MedBot%20logo.png)
-
 MedBot is an intelligent, context-aware medical question answering system that leverages advanced language models and semantic search to provide accurate, professional, and contextually relevant answers to medical queries. Designed for both healthcare professionals and the general public, MedicalQA delivers reliable information sourced from a curated medical knowledge base, MedQuad.
 
 ---
@@ -76,12 +74,17 @@ MedBot is an intelligent, context-aware medical question answering system that l
 - Review the answer and its sources for transparency.
 
 ---
+## Project Flow
 
-## Example
-
-![Demo Screenshot](assets/demo_screenshot.png)
+![Demo Screenshot](assets/Project Flow.png)
 
 ---
+## Example
+
+![Demo Screenshot](assets/Demo.png)
+
+---
+
 
 ## Project Structure
 
