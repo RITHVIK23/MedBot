@@ -76,12 +76,12 @@ MedBot is an intelligent, context-aware medical question answering system that l
 ---
 ## Project Flow
 
-![Demo Screenshot](assets/Project Flow.png)
+![Demo Screenshot](Project_Flow.png)
 
 ---
 ## Example
 
-![Demo Screenshot](assets/Demo.png)
+![Demo Screenshot](Demo.png)
 
 ---
 
